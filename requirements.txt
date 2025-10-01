@@ -1,0 +1,27 @@
+# Milestone 1: Speech-to-Text System Requirements
+# Live Meeting Summarizer Project
+
+# Core ML/AI Libraries
+transformers==4.35.2
+torch==2.1.0
+torchaudio==2.1.0
+
+# Audio Processing
+sounddevice==0.4.6
+numpy==1.24.3
+scipy==1.11.4
+
+# Evaluation Metrics
+jiwer==3.0.3
+
+# Data Processing & Analysis
+pandas==2.0.3
+
+# Progress Bar
+tqdm==4.66.1
+
+# Utilities
+python-dateutil==2.8.2
+
+# Optional: For better performance
+accelerate==0.25.0
